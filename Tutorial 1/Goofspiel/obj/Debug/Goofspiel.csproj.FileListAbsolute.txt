@@ -1,0 +1,33 @@
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\ResolveAssemblyReference.cache
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Goofspiel.resources
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Properties.Resources.resources
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\Goofspiel.csproj.GenerateResource.Cache
+D:\Goofspiel\Goofspiel\Goofspiel\bin\Debug\Goofspiel.exe
+D:\Goofspiel\Goofspiel\Goofspiel\bin\Debug\Goofspiel.pdb
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\Goofspiel.exe
+D:\Goofspiel\Goofspiel\Goofspiel\obj\Debug\Goofspiel.pdb
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\Goofspiel.exe
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\Goofspiel.pdb
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\bin\Debug\Goofspiel.exe
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\bin\Debug\Goofspiel.pdb
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Goofspiel.resources
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\Goofspiel\Goofspiel\obj\Debug\Goofspiel.csproj.GenerateResource.Cache
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.exe
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.pdb
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.csprojResolveAssemblyReference.cache
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Goofspiel.resources
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.Properties.Resources.resources
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\obj\Debug\Goofspiel.csproj.GenerateResource.Cache
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\bin\Debug\Goofspiel.exe
+C:\Users\KEV\Desktop\Goofspiel\Goofspiel\bin\Debug\Goofspiel.pdb
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\bin\Debug\Goofspiel.exe
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\bin\Debug\Goofspiel.pdb
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.csprojResolveAssemblyReference.cache
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.Goofspiel.resources
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.Properties.Resources.resources
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.csproj.GenerateResource.Cache
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.csproj.CoreCompileInputs.cache
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.exe
+F:\Desktop\Università\Year 4\Computational Intelligence\Tutorials\Tutorial-1\Goofspiel\obj\Debug\Goofspiel.pdb
